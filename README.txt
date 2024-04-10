@@ -1,5 +1,3 @@
-This is to go with the paper "Seed loss blah blah blah" by Ben and Kate...
-
 Email: benrhafner@gmail.com
 
 seed_loss_monte_carlo.py is the main program, which computes the probability a seed is lost from a habitat (defined by a polygon) given a dispersal kernel (defined by a random sampling function). An example with McKnight prairie and common milkweed is included, and the results are also rendered visually, overlayed with a satellite image. To help parameterize common milkweed's dispersal kernel, we made use of wind speed data from Cedar Creek (e080_Hourly climate data.txt) which is processed by wind_reader.py. The programs scaling_computations.py and scaling_plots.py explore scaled versions McKnight Prairie and plot those results.
