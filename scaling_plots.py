@@ -1,9 +1,9 @@
-import numpy as np
-import matplotlib.pyplot as plt
-
 '''
 This program makes plots of the data produced by scalling_computations.py
 '''
+
+import numpy as np
+import matplotlib.pyplot as plt
 
 # copied from output of scaling_computations.py (with n = 10**7):
 scale      =     np.array([0.03125, 0.0625, 0.125, 0.25, 0.5, 1, 2, 4, 8, 16, 32])
