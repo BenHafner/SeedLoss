@@ -1,3 +1,5 @@
-Email: benrhafner@gmail.com
+This code is to acompany the manuscript "Bounding the probability of seed loss from isolated habitat patches" by Benjamin R. Hafner and Katherine Meyer.
 
 seed_loss_monte_carlo.py is the main program, which computes the probability a seed is lost from a habitat (defined by a polygon) given a dispersal kernel (defined by a random sampling function). An example with McKnight prairie and common milkweed is included, and the results are also rendered visually, overlayed with a satellite image. To help parameterize common milkweed's dispersal kernel, we made use of wind speed data from Cedar Creek (e080_Hourly climate data.txt) which is processed by wind_reader.py. The programs scaling_computations.py and scaling_plots.py explore scaled versions McKnight Prairie and plot those results.
+
+Contact: benrhafner@gmail.com
