@@ -80,5 +80,5 @@ ax[0].yaxis.set_major_formatter(StrMethodFormatter('{x:.0f}'))
 ax[0].legend(loc='lower left', frameon=False)
 ax[1].legend(loc='lower left', frameon=False)
 
-plt.savefig('plots.png')
+plt.savefig('plots.svg')
 plt.show()
