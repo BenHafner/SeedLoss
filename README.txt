@@ -16,6 +16,6 @@ which is processed by wind_reader.py.
 
 Finally, the programs scaling_computations.py and scaling_plots.py explore the
 impact of habitat scale on seed loss probability and produce the plots in 
-Figure 7 (plots.png).
+Figure 7 (plots.svg).
 
 Contact: benrhafner@gmail.com
